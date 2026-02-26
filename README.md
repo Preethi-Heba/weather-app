@@ -51,9 +51,13 @@ python3 app.py
 http://127.0.0.1:5000
 
 🔄 How It Works
+
 1. User enters a city name.
+ 
 2. App sends request to Weather API.
+ 
 3. API returns JSON weather data.
+ 
 4. Flask renders data on the webpage.
 
 🧠 Future Improvements
